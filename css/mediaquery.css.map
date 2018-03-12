@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yBAA0B;EACxB,IAAI;IACF,OAAO,EAAE,KAAK",
+"sources": ["../sass/mediaquery.scss"],
+"names": [],
+"file": "mediaquery.css"
+}

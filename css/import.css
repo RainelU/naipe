@@ -68,10 +68,11 @@ html {
     padding: 20px;
     margin: 50px 0px;
     border: 1px solid #2c3e50;
-    border-radius: 50% 10000% 50% 10000%; }
+    border-radius: 50%;
+    background-color: #2c3e50; }
   .backq #medium {
-    padding: 10px 0px;
-    color: #2c3e50; }
+    padding: 20px 20px;
+    color: white; }
   .backq #p-medium {
     transform: rotate(180deg); }
   .backq .suit-hearts:before {
@@ -85,7 +86,7 @@ html {
     content: "♥";
     font-size: 90px;
     position: absolute;
-    bottom: 16%;
+    bottom: 14%;
     right: 40%;
     color: #e74c3c;
     transform: rotate(180deg); }
@@ -100,7 +101,7 @@ html {
     content: "♦";
     font-size: 90px;
     position: absolute;
-    bottom: 16%;
+    bottom: 14%;
     right: 40%;
     color: #e74c3c;
     transform: rotate(180deg); }
@@ -115,7 +116,7 @@ html {
     content: "♠";
     font-size: 90px;
     position: absolute;
-    bottom: 16%;
+    bottom: 14%;
     right: 40%;
     color: #2c3e50;
     transform: rotate(180deg); }
@@ -130,7 +131,7 @@ html {
     content: "♣";
     font-size: 90px;
     position: absolute;
-    bottom: 16%;
+    bottom: 14%;
     right: 40%;
     color: #2c3e50;
     transform: rotate(180deg); }
